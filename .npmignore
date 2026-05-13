@@ -1,0 +1,8 @@
+*.test.ts
+coverage/
+tsconfig*.json
+vitest.config.ts
+.pi-lens/
+.github/
+.claude/
+.gitnexus/
