@@ -1,4 +1,3 @@
-*.test.ts
 coverage/
 tsconfig*.json
 vitest.config.ts
@@ -6,3 +5,5 @@ vitest.config.ts
 .github/
 .claude/
 .gitnexus/
+.git/
+node_modules/

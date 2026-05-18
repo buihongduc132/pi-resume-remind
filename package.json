@@ -8,10 +8,14 @@
     "pi-package",
     "pi-extension",
     "pi",
+    "pi-coding-agent",
     "session",
     "resume",
     "reminder",
-    "pi-coding-agent"
+    "idle-detection",
+    "context-recovery",
+    "session-handoff",
+    "pi-quit"
   ],
   "repository": {
     "type": "git",
@@ -25,7 +29,9 @@
     "access": "public"
   },
   "files": [
-    "src",
+    "src/index.ts",
+    "src/resume.ts",
+    "src/commands.ts",
     "README.md",
     "AGENTS.md",
     "LICENSE"
