@@ -10,7 +10,8 @@
     "pi",
     "session",
     "resume",
-    "reminder"
+    "reminder",
+    "pi-coding-agent"
   ],
   "repository": {
     "type": "git",
