@@ -9,13 +9,9 @@
     "pi-extension",
     "pi",
     "pi-coding-agent",
-    "session",
     "resume",
-    "reminder",
-    "idle-detection",
-    "context-recovery",
-    "session-handoff",
-    "pi-quit"
+    "remind",
+    "session-reminder"
   ],
   "repository": {
     "type": "git",
