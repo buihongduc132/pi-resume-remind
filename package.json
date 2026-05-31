@@ -1,6 +1,6 @@
 {
   "name": "pi-resume-remind",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pi CLI extension that reminds users how to resume the current session when quitting",
   "type": "module",
   "license": "MIT",
