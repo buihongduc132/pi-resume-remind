@@ -11,9 +11,10 @@ dist/
 .sg-sha
 .sgignore
 sgconfig.yml
-.hindsight.json
 .gitnexus/
 .gitnexusignore
 .bug-hunter/
 AGENTS.md
 CLAUDE.md
+.fusion
+.pi
